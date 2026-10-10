@@ -44,6 +44,7 @@ Bạn có thể cài đặt plugin bằng một trong hai cách dưới đây.
 - **Tên plugin:** Character Spacing
 - **Ứng dụng:** ONLYOFFICE Desktop Editors
 - **Hệ điều hành được hướng dẫn:** Windows
+- **Người phát triển:** TuanMu.Net
 
 ## Đóng góp
 
