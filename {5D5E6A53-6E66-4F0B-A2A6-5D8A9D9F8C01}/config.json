@@ -1,0 +1,48 @@
+{
+  "name": "Character Spacing",
+  "guid": "asc.{5D5E6A53-6E66-4F0B-A2A6-5D8A9D9F8C01}",
+  "version": "1.0.0",
+  "baseUrl": "",
+  "variations": [
+    {
+      "description": "Adjust character spacing",
+      "url": "index.html",
+	"icons": [
+		"icons/light/icon.png",
+		"icons/light/icon@2x.png"
+	],
+	"icons2": [
+		{
+			"style": "light",
+			"100%": {
+				"normal": "icons/light/icon.png"
+			},
+			"200%": {
+				"normal": "icons/light/icon@2x.png"
+			}
+		},
+		{
+			"style": "dark",
+			"100%": {
+				"normal": "icons/dark/icon.png"
+			},
+			"200%": {
+				"normal": "icons/dark/icon@2x.png"
+			}
+		}
+	],
+      "isViewer": false,
+      "EditorsSupport": [
+        "word"
+      ],
+      "type": "panel",
+      "initDataType": "none",
+      "initOnSelectionChanged": true,
+      "buttons": [],
+      "size": [
+        320,
+        240
+      ]
+    }
+  ]
+}
